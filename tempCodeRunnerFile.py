@@ -1,0 +1,1 @@
+print(f"\nWaktu respons ({user_input} data): {elapsed_time:.2f} detik\n")
